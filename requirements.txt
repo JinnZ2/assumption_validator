@@ -1,0 +1,8 @@
+# existing entries unchanged
+flask>=2.3
+flask-cors>=4.0
+numpy>=1.24
+scipy>=1.10
+
+# api guide only — optional
+requests>=2.31
