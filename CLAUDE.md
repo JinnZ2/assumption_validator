@@ -1,6 +1,8 @@
 # assumption_validator
 
-A meta-layer that watches what a model assumes about the world and reports when those assumptions stop holding.
+> A universal framework for detecting when the assumptions underlying any model, prediction, or decision system are breaking down.
+
+Source: README.md
 
 <!-- clone-refspec-note v1.1 -->
 ## Cloning and pushing
