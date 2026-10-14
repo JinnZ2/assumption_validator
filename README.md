@@ -1,3 +1,6 @@
+> Before reading or editing anything here, read READ_ME_THIS_WAY.md.
+> Mismatches, dead ends and odd names in this repo are kept on purpose.
+
 # assumption_validator
 CC0 — No Rights Reserved
 github.com/JinnZ2/assumption_validator
